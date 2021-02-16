@@ -21,13 +21,13 @@ python3 main.py
 
 This notebook uses the CycleGAN - read more here: https://arxiv.org/pdf/1703.10593.pdf
 
-The images produced are pretty cool!
+The images produced are pretty cool! (They are taken from real natural images and made to look like Monet paintings)
 
 For e.g.
 
-![newimage](1652.jpg)
+![newimage](1237.jpg)
 
-
+![newimage2](7011.jpg)
 
 
 ## Stay Tuned for more improvements later on!
